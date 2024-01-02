@@ -5,6 +5,7 @@
     --cor2: #1B1BE0;
     --cor3: #10108b;
     --cor4: #070752;
+    --cor5: #010122;
 }
 body {
     /*
@@ -139,5 +140,5 @@ footer > p {text-align: center;}
     border: 2px solid #000;
     padding: 10px 100px 10px 100px;
     background-color: ##aeaee6;
-    background-image: linear-gradient(to right,#aeaee6,#6a6ae7,#1B1BE0,#070752);
+    background-image: linear-gradient(to right,#aeaee6,#1B1BE0,#070752);
 }
