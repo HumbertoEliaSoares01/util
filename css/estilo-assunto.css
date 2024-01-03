@@ -21,15 +21,14 @@ header {
     height: 120%;
     background-image: linear-gradient(to bottom,#aeaee6,#6a6ae7,#1B1BE0,#070752);
     padding: 40px -10px 20px 10px;
-    margin: 20px 20px 10px 20px;
-    border-radius: 2%;
+    margin: 20px 20px 10px 10px;
 }
 header h1 {
     font-size: 72px; color: #F2F2F2;		 
     font-family: 'Finger Paint', cursive; 
     color: #ffffff;
     padding-top: 95px; 
-    margin: 30px 20px 10px 10px; 
+    margin: 30px 20px 10px 30px; 
     text-align: left; 
     text-shadow: 6px 6px 10px rgba(0,0,0,.6);
 }
@@ -139,6 +138,8 @@ footer > p {text-align: center;}
 .botao {
     border: 2px solid #000;
     padding: 10px 100px 10px 100px;
-    background-color: ##aeaee6;
+    background-color: #cecece;
+    /*
     background-image: linear-gradient(to right,#aeaee6,#1B1BE0,#070752);
+    */
 }
