@@ -4,7 +4,7 @@
 ## formatação **negrito**
 ## formatação *itálico*
 ## formatação __*negrito e itálico*__
-~~riscado~~
+## ~~riscado~~
 # lista numerada
 ---
 1. primeiro
