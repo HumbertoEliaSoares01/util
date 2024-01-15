@@ -120,8 +120,9 @@ p.topico-solo{
 .menu ul li:hover > ul{display: block; float: left;}
 .botao {
     border: 2px solid #000;
-    padding: 10px 100px 10px 100px;
+    padding: 20px 50px 20px 50px;
     background-color: #cecece;
+    margin-left: 50px ;
     /*
     background-image: linear-gradient(to right,#aeaee6,#1B1BE0,#070752);
     */
