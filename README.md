@@ -26,3 +26,11 @@
 * -[x] primeira tarefa
 * -[ ] segunda tarefa
 * -[ ] terceira tarefa
+---
+número | nome | nota
+---|---|---
+1 | Rosa | 8.5
+2 | João | 9.0
+3 | Maria | 9.5
+
+## __*Terminou a tabela*__
