@@ -1,5 +1,6 @@
 # util
-## testando a **linguagem MarkDown**
+## Testando a **Linguagem MarkDown**
+---
 ## formatação **negrito**
 ## formatação *itálico*
 ## formatação __*negrito e itálico*__
