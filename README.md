@@ -13,6 +13,7 @@
 3. terceiro
 4. quarto
 # lista não numerada
+---
 * primeiro
 * segundo
    * sub item
@@ -20,6 +21,7 @@
 * terceiro
 * quarto
 * # Lista de Tarefas
+---
 * -[x] primeira tarefa
 * -[ ] segunda tarefa
 * -[ ] terceira tarefa
