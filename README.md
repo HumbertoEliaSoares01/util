@@ -12,3 +12,10 @@
    2. sub item
 3. terceiro
 4. quarto
+# lista não numerada
+* primeiro
+* segundo
+   * sub item
+   * sub item
+* terceiro
+* quarto 
