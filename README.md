@@ -49,4 +49,4 @@ número | nome | nota
 ```
 ---
 # Olá pequeno gafanhoto 🖖 🐕 🐱 🐈 
-
+Muitos emojis na "[emojipedia](https://emojipedia.org/)"
